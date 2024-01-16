@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="33px" height="725px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 33 725"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:1.41733}
+    .fil3 {fill:none}
+    .fil2 {fill:#4D83D7}
+    .fil0 {fill:#68B3C9}
+    .fil1 {fill:#B8E4EB}
+   ]]>
+  </style>
+   <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="21.3535" y1="281.132" x2="21.3569" y2="471.133">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id1)" width="33.5701" height="725.832"/>
+   </mask>
+   <mask id="id2">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="16.5003" y1="725.134" x2="16.5014" y2="531.133">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id3)" width="33.5701" height="725.832"/>
+   </mask>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="33.003" height="725.265"/>
+  <polygon class="fil1" style="mask:url(#id0)" points="0,725 33,725 33,0 0,0 "/>
+  <polygon class="fil2" style="mask:url(#id2)" points="0,725 33,725 33,0 0,0 "/>
+  <line class="fil3 str0" x1="27" y1="11" x2="27" y2= "184" />
+  <line class="fil3 str0" x1="20" y1="88" x2="20" y2= "261" />
+  <line class="fil3 str0" x1="12" y1="243" x2="12" y2= "380" />
+  <line class="fil3 str0" x1="28" y1="207" x2="28" y2= "302" />
+  <line class="fil3 str0" x1="27" y1="357" x2="27" y2= "415" />
+ </g>
+</svg>

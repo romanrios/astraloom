@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3496px" height="720px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3496 720"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:none}
+    .fil0 {fill:#9F589B}
+    .fil1 {fill:#E899C9}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M3496 720l-3496 0 0 -720 1779 0 1717 720z"/>
+   </clipPath>
+     <mask id="id1">
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="-991.031" y1="434.031" x2="-991.031" y2="703.86">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+      <rect style="fill:url(#id2)" x="-1108" y="327" width="5006" height="393"/>
+     </mask>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="3496,720 0,720 0,0 1779,0 "/>
+  <g style="clip-path:url(#id0)">
+   <g id="_2327925917296">
+    <polygon id="1" class="fil1" style="mask:url(#id1)" points="3707,720 -898,720 -1108,328 3898,328 "/>
+    <polygon class="fil1" points="3094,329 -1038,329 -1226,-63 3266,-63 "/>
+   </g>
+  </g>
+  <polygon class="fil2" points="3496,720 0,720 0,0 1779,0 "/>
+ </g>
+</svg>
